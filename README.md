@@ -10,7 +10,7 @@ UI Clone - Discord
     <img src="https://img.shields.io/github/contributors/andrekardec/clone-discord?color=%237159c1&logoColor=%237159c1&style=flat" alt="Contributors">
   </a>
   <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/github/license/andrekardec/clone-discord?color=%237159c1&logo=mit" alt="License">
+    <img src="https://img.shields.io/github/license/andrekardec/clone-discord?color=%237159c1&logo=mit&license=mit" alt="License">
   </a>
 </p>
 
